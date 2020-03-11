@@ -9,4 +9,4 @@ Synchronizers Between Different LDAP Software
 
 3. if LDAP ResultCode 32, ADD Data 
 
-4  if LDAP ResultCode 0, Skip
+4. if LDAP ResultCode 0, Skip
